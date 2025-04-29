@@ -1,3 +1,4 @@
+![newsbot](https://github.com/user-attachments/assets/8893027b-6eb5-462c-8817-b6912a22dd53)
 
 # RockyBot: News Research Tool 
 
